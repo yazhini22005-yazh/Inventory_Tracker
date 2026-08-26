@@ -1,0 +1,10 @@
+{
+    "8502": {
+        "name": "shampoo",
+        "category": "hair maintenance",
+        "purchase_price": 10.0,
+        "selling_price": 20.0,
+        "quantity": 80,
+        "minimum_stock": 10
+    }
+}
